@@ -2231,7 +2231,7 @@
 }
 .tl-slidenav-previous .tl-slidenav-content-container,
 .tl-slidenav-next .tl-slidenav-content-container {
-  height: 50px;
+  height: 5000px;
   width: 100px;
   position: absolute;
 }
