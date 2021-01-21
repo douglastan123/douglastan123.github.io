@@ -1012,7 +1012,7 @@
 ================================================== */
 .tl-timenav {
   width: 100%;
-  height: 20px;
+  height: 100%;
   background-color: #f2f2f2;
   position: relative;
   overflow: hidden;
@@ -2473,7 +2473,7 @@
 ================================================== */
 .tl-storyslider {
   width: 100%;
-  height: 2940px !important;
+  height: 100%;
   overflow: hidden;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -3063,6 +3063,7 @@
 ================================================== */
 .tl-timeline {
   width: 100%;
+  height: 100%;
   font-size: 16px;
   line-height: normal;
   overflow: hidden;
