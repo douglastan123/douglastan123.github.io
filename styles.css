@@ -1097,7 +1097,7 @@
 }
 .tl-timenav .tl-timenav-slider {
   position: absolute;
-  height: 100%;
+  height: 65px;
   width: 100%;
   top: 0;
 }
@@ -1113,23 +1113,23 @@
 }
 .tl-timenav .tl-timenav-slider .tl-timenav-slider-background {
   position: absolute;
-  height: 100%;
+  height: 65px;
   width: 100%;
   cursor: move;
   z-index: 6;
 }
 .tl-timenav .tl-timenav-slider .tl-timenav-container-mask {
   position: absolute;
-  height: 100%;
+  height: 65px;
   top: 0;
 }
 .tl-timenav .tl-timenav-slider .tl-timenav-container-mask .tl-timenav-container {
   position: absolute;
-  height: 100%;
+  height: 65px;
 }
 .tl-timenav .tl-timenav-slider .tl-timenav-container-mask .tl-timenav-container .tl-timenav-item-container {
   position: absolute;
-  height: 100%;
+  height: 65px;
 }
 /* Skinny
 ================================================== */
